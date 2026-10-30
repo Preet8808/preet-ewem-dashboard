@@ -339,10 +339,9 @@
 
   /* --- Timeline -------------------------------------------------------- */
   function timelineItem(assignment, undated = false) {
-    const day = assignment.date ? pad(Number(assignment.date.slice(8, 10))) : "—";
     return `
       <button class="tl-item" type="button" data-id="${assignment.id}" aria-label="Open ${esc(assignment.type)} assignment ${pad(assignment.id)}: ${esc(assignment.title)}">
-        <span class="tl-day" aria-hidden="true">${day}</span>
+        <span class="tl-day" aria-hidden="true">A${pad(assignment.id)}</span>
         <span class="tl-body">
           <span class="tl-title">${esc(assignment.title)}</span>
           <span class="tl-meta">A${pad(assignment.id)} · ${esc(assignment.type)} · ${esc(assignment.status)}${undated ? " · In class" : ""}</span>

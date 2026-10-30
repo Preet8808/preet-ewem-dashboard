@@ -1019,10 +1019,13 @@ body.modal-open { overflow: hidden; }
   background: color-mix(in srgb, var(--card) 80%, var(--paper-deep));
 }
 .tl-day {
-  min-width: 22px;
-  font-family: var(--font-display);
-  font-size: 1.35rem;
-  line-height: 0.95;
+  min-width: 28px;
+  padding-top: 1px;
+  font-family: var(--font-mono);
+  font-size: 8px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
   color: var(--copper);
 }
 .tl-body { display: flex; flex-direction: column; gap: 4px; min-width: 0; }

@@ -52,8 +52,8 @@ const ASSIGNMENTS = [
     description:
       "A 20-district e-waste ledger for Madhya Pradesh: 43,575 tonnes a year of generation, a 68% collection rate, 175 collection centres and a 100-point state scorecard — shipped as a formal report, a seven-sheet tracker and a live intelligence dashboard.",
     tags: ["Madhya Pradesh", "20 districts", "Tracker", "Live dashboard"],
-    date: "2026-07-29",
-    dateLabel: "29 Jul 2026",
+    date: "2026-07",
+    dateLabel: "Jul 2026",
     status: "Submitted",
     group: [],
     cover: {
@@ -116,8 +116,8 @@ const ASSIGNMENTS = [
     description:
       "A 13-slide state study of Kerala's e-waste system: 38,395.84 tonnes generated a year, 75.83% material recovery, a 62.6% collection rate and an authorised capacity base that covers only 22.4% of generation.",
     tags: ["Kerala", "Presentation", "Circular economy"],
-    date: "2026-08-10",
-    dateLabel: "10 Aug 2026",
+    date: "2026-08",
+    dateLabel: "Aug 2026",
     status: "Submitted",
     group: [],
     cover: {
@@ -141,7 +141,7 @@ const ASSIGNMENTS = [
     description:
       "A patent-style design for an ultra-high-temperature plasma arc system that smelts PCB e-waste at 5,000–15,000 °C, separates off-gas and slag, and recovers Au, Ag, Cu, Pd and Pt at a claimed >95% recovery efficiency.",
     tags: ["Plasma arc", "PCB recovery", "Patent concept"],
-    date: "2026-08-15",
+    date: "2026-08",
     dateLabel: "Aug 2026",
     status: "Submitted",
     group: ["Kalpesh Sawkare", "Dhiraj Pawar"],
@@ -166,8 +166,8 @@ const ASSIGNMENTS = [
     description:
       "A compliance review of Dixon, Kaynes Technology, Syrma SGS, Foxconn India and Tata Electronics against the E-Waste (Management) Rules, 2022 — EPR targets, registration fees and what their BRSR filings actually disclose.",
     tags: ["EPR", "CPCB", "5 companies", "BRSR"],
-    date: "2026-09-02",
-    dateLabel: "2 Sep 2026",
+    date: "2026-09",
+    dateLabel: "Sep 2026",
     status: "Submitted",
     group: [],
     cover: {
@@ -198,8 +198,8 @@ const ASSIGNMENTS = [
     description:
       "A six-slide India briefing distilled from a comparison of Australia, the USA, Japan, India and Russia: environmental statutes, the 45% emissions-intensity target, ~50% non-fossil capacity by 2030 and the policy instruments behind them.",
     tags: ["Policy", "Emissions", "India", "5-country study"],
-    date: "2026-08-24",
-    dateLabel: "24 Aug 2026",
+    date: "2026-08",
+    dateLabel: "Aug 2026",
     status: "Submitted",
     group: [],
     cover: {
@@ -224,8 +224,8 @@ const ASSIGNMENTS = [
     description:
       "A campus-wide E-Waste Week campaign: a sort-and-score challenge, a goodies quiz, reels and posters, a skit and film night, and a drop-off point in the main block. Paired with a formal-vs-informal recycling dashboard.",
     tags: ["Campaign", "Campus", "Reuse", "Live dashboard"],
-    date: "2026-09-08",
-    dateLabel: "8 Sep 2026",
+    date: "2026-09",
+    dateLabel: "Sep 2026",
     status: "Submitted",
     group: [],
     feature: "video",
@@ -263,8 +263,8 @@ const ASSIGNMENTS = [
     description:
       "A comparative scorecard for ten certified green buildings across India, scored on six criteria out of 60, plus a live tool that lets you score your own building and compare certifications.",
     tags: ["LEED", "Green buildings", "Scorecard", "Live tool"],
-    date: "2026-09-22",
-    dateLabel: "22 Sep 2026",
+    date: "2026-09",
+    dateLabel: "Sep 2026",
     status: "Submitted",
     group: [],
     cover: {
@@ -295,8 +295,8 @@ const ASSIGNMENTS = [
     description:
       "A case study of Pune's worker-owned SWaCH cooperative: 3,800+ members, roughly nine lakh households, user-fee door-to-door collection, source segregation and a municipal partnership that turns waste pickers into formal partners.",
     tags: ["Case study", "SWaCH", "Informal sector", "Circular economy"],
-    date: "2026-09-29",
-    dateLabel: "29 Sep 2026",
+    date: "2026-09",
+    dateLabel: "Sep 2026",
     status: "Submitted",
     group: [],
     cover: {
@@ -321,8 +321,8 @@ const ASSIGNMENTS = [
     description:
       "An IEEE-format recommender paper: a quality-gated catalogue pipeline certifying 17,931 products from 572,083 records, a star-schema warehouse and a four-model attention fusion that beats NCF (HR@10 0.327 vs 0.260).",
     tags: ["IEEE format", "Recommender systems", "AI", "Data engineering"],
-    date: "2026-10-08",
-    dateLabel: "8 Oct 2026",
+    date: "2026-10",
+    dateLabel: "Oct 2026",
     status: "Submitted",
     group: ["Dhiraj Pawar", "Kalpesh Sawkare", "Sainath Nanaware"],
     cover: {
