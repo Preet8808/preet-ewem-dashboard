@@ -700,6 +700,5 @@
   observeReveals();
   initScrollChrome();
   applyFilters();
-
-  window.addEventListener("load", () => window.setTimeout(animateCounters, 250), { once: true });
+  animateCounters();
 })();

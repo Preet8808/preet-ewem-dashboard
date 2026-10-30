@@ -307,7 +307,7 @@ body.modal-open { overflow: hidden; }
 .hero__title {
   margin: 26px 0 0;
   font-family: var(--font-display);
-  font-size: clamp(3.4rem, 7.2vw, 7.1rem);
+  font-size: clamp(3.4rem, 6.1vw, 5.5rem);
   font-weight: 400;
   line-height: 0.9;
   letter-spacing: -0.032em;
